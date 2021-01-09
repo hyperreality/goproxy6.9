@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/snail007/goproxy/utils"
+	"github.com/hyperreality/goproxy6.9/utils"
 )
 
 const (
